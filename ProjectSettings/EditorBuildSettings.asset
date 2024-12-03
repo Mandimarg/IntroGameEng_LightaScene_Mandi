@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 7f39fd1d6c872a4409f8f686f8173646
+  - enabled: 0
+    path: Assets/BloodDecalsAndEffects/BloodGushFX/BloodPartcleFX_Scene.unity
+    guid: cb2d6e429ca112f499e1db771d5bd27c
+  - enabled: 1
+    path: Assets/Scenes/Hospital_Level.unity
+    guid: ea2834d2f0f52dc4d87c2bdda2cc63be
   m_configObjects: {}
