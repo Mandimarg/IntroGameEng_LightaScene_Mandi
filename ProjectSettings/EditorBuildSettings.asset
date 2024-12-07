@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hospital_Level.unity
     guid: ea2834d2f0f52dc4d87c2bdda2cc63be
+  - enabled: 1
+    path: Assets/Scenes/Quitscreenpanel.unity
+    guid: cc4307a9da5cf204daa9fafc32bae3f9
   m_configObjects: {}
